@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<setting>
+    <targetSoftware>
+        <name>VSC</name>
+        <path>C:\Program Files\Microsoft VS Code\Code.exe</path>
+    </targetSoftware>
+    <icon></icon>
+    <arguments>
+        <name>Dilectory</name>
+        <!-- template -->
+        <!-- <argument>
+            <name></name>
+            <value></value>
+        </argument> -->
+        <argument>
+            <name>Favorite</name>
+            <value>C:\Users\Default\Favorites</value>
+        </argument>
+        <argument>
+            <name>myProject</name>
+            <value>E:\work\myProject
+            <value>
+        </argument>
+    </arguments>
+</setting>

@@ -1,0 +1,5 @@
+# Setting File
+settingList.xml
+*.exe
+.vscode/
+*.ico
